@@ -1,0 +1,26 @@
+	a:hover{
+			color: greenyellow;
+		
+		}
+        .profile{
+        	width: 40px;
+        	border-radius: 50%;
+        	margin-left: 60px;
+        	display: block;}
+   h1{
+   font-family: "Arial";font-size:60px;
+color:darkred;}
+
+
+}
+
+nav{
+    display: inline;
+}
+
+
+html{
+
+font-family:"Roboto";
+}
+
