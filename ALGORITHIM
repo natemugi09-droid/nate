@@ -1,0 +1,14 @@
+SENTENCE:="THIS IS A SENTENCE."
+
+WHIL(S<LEN(SENTENCE))DO:
+     IF S='a'or s ='e' or s =
+     'o' or s = 'u' :
+         vowel_count = count + 1
+
+
+         if s =" ":
+            word_count = word_count + 1
+
+
+
+            write (word_count, vowel_count)
